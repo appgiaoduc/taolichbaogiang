@@ -1,7 +1,7 @@
 {
-  "name": "Tạo lịch báo giảng",
+  "name": "Tạo lịch báo giảng tự động",
   "short_name": "Tạo LBG",
-  "description": "Hệ thống tạo lịch báo giảng tự động theo thời khóa biểu",
+  "description": "Hệ thống tạo lịch báo giảng tự động cho giáo viên bộ môn, GVCN",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
